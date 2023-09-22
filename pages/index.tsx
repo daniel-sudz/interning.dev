@@ -208,7 +208,7 @@ export default function Index() {
         darkMode ? `${styles.container} ${styles.darkMode}` : styles.container
       }
     >
-      <h1>interning.dev</h1>
+      <h1>interning.dev (OFFSEASON FORK EDITION) </h1>
       <p>
         ⚠️ Not affiliated with{' '}
         <a

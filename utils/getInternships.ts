@@ -2,7 +2,7 @@ import { parseLink, parseLocations, parseName } from './parse'
 import { Internship } from './types'
 
 const url =
-  'https://raw.githubusercontent.com/SimplifyJobs/Summer2024-Internships/dev/README.md'
+  'https://raw.githubusercontent.com/SimplifyJobs/Summer2024-Internships/dev/README-Off-Season.md'
 const startSeparator =
   '<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->\n'
 const endSeparator =
